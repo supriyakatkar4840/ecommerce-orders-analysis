@@ -1,7 +1,6 @@
 # E-commerce Orders Analysis
 
 Exploratory data analysis of 100 e-commerce orders (Apr–Jul 2024) using **NumPy, Pandas, Matplotlib and Seaborn**.
-Built as the case study for **SkillupOnline Learning – Batch 8**.
 
 ## Objective
 Answer 22 analysis questions across three areas:
